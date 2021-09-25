@@ -1,5 +1,5 @@
 関東でエンジニアをしています。
-趣味で開発したものを挙げていけます。
+趣味で開発したものを挙げていきます。
 
 I'm engineer in Kanto region of Japan. 
 I will push the ones I developed as a hobby.
